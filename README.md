@@ -1,6 +1,3 @@
-# VisionX-AI
-AI-powered system combining virtual mouse, real-time object detection, and face recognition.
-
 # VisionX AI
 
 > Transforming the way humans interact with machines using Computer Vision
