@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👁️ VisionX AI</h1>
+<h1>VisionX AI</h1>
 
 <p><strong>Transforming the way humans interact with machines using Computer Vision</strong></p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [Modules](#-modules)
@@ -34,15 +34,15 @@
 
 ---
 
-## 🧠 Overview
+## Overview
 
 VisionX AI is a modular computer vision platform that allows humans to interact with machines in smarter, more intuitive ways. Each module tackles a different real-world problem using state-of-the-art AI techniques:
 
 | Module | Technology | Performance |
 |--------|-----------|-------------|
-| 🖐️ AI Virtual Mouse | MediaPipe + OpenCV | 20+ FPS, 21 hand landmarks |
-| 🧑 Face Recognition | Deep Learning + OpenCV | 96.94% accuracy |
-| 🎯 Object Detection | YOLOv8 + Ultralytics | 87%+ confidence, multi-object |
+| AI Virtual Mouse | MediaPipe + OpenCV | 20+ FPS, 21 hand landmarks |
+| Face Recognition | Deep Learning + OpenCV | 96.94% accuracy |
+| Object Detection | YOLOv8 + Ultralytics | 87%+ confidence, multi-object |
 
 No cloud. No external API. Everything runs **100% locally** on Python.
 
@@ -50,7 +50,7 @@ No cloud. No external API. Everything runs **100% locally** on Python.
 
 ## 🔷 Modules
 
-### 🖐️ Module 01 — AI Virtual Mouse
+### Module 01 — AI Virtual Mouse
 
 > Control your entire computer using just your hand — no physical mouse needed.
 
@@ -71,7 +71,7 @@ No cloud. No external API. Everything runs **100% locally** on Python.
 
 ---
 
-### 🧑 Module 02 — Face Recognition
+### Module 02 — Face Recognition
 
 > AI that identifies who you are — live from your webcam — with 96.94% accuracy.
 
@@ -92,7 +92,7 @@ No cloud. No external API. Everything runs **100% locally** on Python.
 
 ---
 
-### 🎯 Module 03 — Object Detection
+### Module 03 — Object Detection
 
 > Detect multiple objects simultaneously in live video using YOLOv8.
 
@@ -103,9 +103,9 @@ No cloud. No external API. Everything runs **100% locally** on Python.
 4. Multiple objects detected in a single frame simultaneously
 
 **What it can detect (examples from live demo):**
-- 👤 Person — 0.59 confidence
-- 📱 Cell Phone — 0.38 confidence
-- 🏍️ Motorcycle — 0.73 confidence
+-  Person — 0.59 confidence
+-  Cell Phone — 0.38 confidence
+-  Motorcycle — 0.73 confidence
 - *(80+ object classes supported via COCO dataset)*
 
 **Key Features:**
@@ -132,7 +132,7 @@ No cloud. No external API. Everything runs **100% locally** on Python.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 VisionX-AI/
@@ -157,7 +157,7 @@ VisionX-AI/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 **1. Clone the repository**
 ```bash
@@ -184,7 +184,7 @@ pip install -r "Object Detection/requirements.txt"
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 **Module 01 — AI Virtual Mouse**
 ```bash
@@ -212,7 +212,7 @@ python server.py
 
 ---
 
-## 📊 Results
+## Results
 
 | Module | Metric | Value |
 |--------|--------|-------|
@@ -225,7 +225,7 @@ python server.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Jaydeep Satani**  
 AI & Computer Vision Developer
@@ -237,7 +237,7 @@ AI & Computer Vision Developer
 
 <div align="center">
 
-⭐ **If you found this project helpful, please give it a star!** ⭐
+ **If you found this project helpful, please give it a star!** 
 
 *Built with ❤️ using Python & Computer Vision*
 
