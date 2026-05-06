@@ -48,7 +48,7 @@ No cloud. No external API. Everything runs **100% locally** on Python.
 
 ---
 
-## 🔷 Modules
+## Modules
 
 ### Module 01 — AI Virtual Mouse
 
@@ -118,7 +118,7 @@ No cloud. No external API. Everything runs **100% locally** on Python.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |-----------|---------|
@@ -239,6 +239,6 @@ AI & Computer Vision Developer
 
  **If you found this project helpful, please give it a star!** 
 
-*Built with ❤️ using Python & Computer Vision*
+*Built with Python & Computer Vision*
 
 </div>
